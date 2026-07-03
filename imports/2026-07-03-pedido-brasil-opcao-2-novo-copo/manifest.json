@@ -1,0 +1,13 @@
+{
+  "name": "Pedido Brasil - opção 2 novo copo sem fundo",
+  "source": "OpenSquad social-media-sqz sanitized public handoff",
+  "format": "instagram_post",
+  "artifact": "post-instagram-feed-pedido-brasil-opcao-2-novo-copo-sem-fundo-1080x1350.png",
+  "dimensions": {
+    "width": 1080,
+    "height": 1350
+  },
+  "editability_note": "PNG importado no Canva vira imagem achatada; serve como preview/handoff. Para texto/componentes editáveis, usar template/design nativo do Canva ou SVG/PDF parcial.",
+  "created_at": "2026-07-03T00:00:00-03:00",
+  "public_safe": true
+}
