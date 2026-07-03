@@ -1,0 +1,35 @@
+# Sistema / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# Segredos / credenciais
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*token*
+*secret*
+*credential*
+
+# Perfis e sessões
+_browser_profile/
+browser_profile/
+.cookies/
+cookies.json
+local_storage/
+sessions/
+
+# Outputs internos / rascunhos não publicados
+_private/
+drafts/
+internal/
+*.log
+
+# Dependências locais
+node_modules/
+.venv/
+venv/
