@@ -1,0 +1,12 @@
+{
+  "name": "Canal de Influência SQZ — Feed 1080x1350 Editável",
+  "source": "OpenSquad sanitized public Canva editable HTML handoff",
+  "format": "instagram_post",
+  "page_size": "1080x1350",
+  "html": "index.html",
+  "preview": "feed-canal-influencia-sqz-1080x1350-preview.png",
+  "public_url": "https://raw.githubusercontent.com/sqz-group/repo-canva-sqz/main/imports/2026-07-06-canal-influencia-sqz-editavel/index.html",
+  "preview_url": "https://raw.githubusercontent.com/sqz-group/repo-canva-sqz/main/imports/2026-07-06-canal-influencia-sqz-editavel/feed-canal-influencia-sqz-1080x1350-preview.png",
+  "editability_note": "HTML/CSS estruturado para importação editável no Canva; textos, blocos e ícones foram recriados como elementos, não como screenshot de temp.sh.",
+  "public_safe": true
+}
