@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <pattern id="diag" width="74" height="74" patternUnits="userSpaceOnUse" patternTransform="rotate(25)"><line x1="0" y1="0" x2="0" y2="74" stroke="#181818" stroke-width="1"/></pattern>
+    <pattern id="hgrid" width="90" height="90" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="1080" y2="0" stroke="#151515" stroke-width="1"/></pattern>
+    <clipPath id="clip1"><rect x="72" y="548" width="440" height="520" rx="34" ry="34"/></clipPath>
+    <clipPath id="clip2"><rect x="545" y="500" width="315" height="430" rx="30" ry="30"/></clipPath>
+    <clipPath id="clip3"><rect x="675" y="895" width="330" height="355" rx="28" ry="28"/></clipPath>
+  </defs>
+  <rect width="1080" height="1350" fill="#070707"/>
+  <rect width="1080" height="1350" fill="url(#diag)" opacity="0.35"/>
+  <rect width="1080" height="1350" fill="url(#hgrid)" opacity="0.23"/>
+  <image href="https://raw.githubusercontent.com/sqz-group/repo-canva-sqz/main/imports/2026-07-06-dia-dos-pais-sqz-editavel/assets/logo.png" x="72" y="54" width="212" height="74" preserveAspectRatio="xMinYMin meet"/>
+  <rect x="756" y="52" width="252" height="60" rx="30" fill="#fafafa"/>
+  <text x="882" y="89" text-anchor="middle" font-family="Arial" font-size="23" font-weight="800" fill="#070707">DIA DOS PAIS</text>
+  <text x="72" y="220" font-family="Arial" font-size="73" font-weight="900" fill="#ffffff">PROJETOS QUE</text>
+  <text x="72" y="302" font-family="Arial" font-size="73" font-weight="900" fill="#ffffff">VIRAM PRESENÇA</text>
+  <text x="76" y="391" font-family="Arial" font-size="30" fill="#d2d2d2">Para marcas que querem reconhecer pais, equipes e</text>
+  <text x="76" y="430" font-family="Arial" font-size="30" fill="#d2d2d2">parceiros com produtos personalizados de uso real.</text>
+  <polygon points="-20,510 1130,400 1130,1090 -20,1220" fill="#eeeeee"/>
+  <rect x="72" y="548" width="440" height="520" rx="34" fill="#ffffff"/><image href="https://raw.githubusercontent.com/sqz-group/repo-canva-sqz/main/imports/2026-07-06-dia-dos-pais-sqz-editavel/assets/gourmet.jpeg" x="72" y="548" width="440" height="520" preserveAspectRatio="xMidYMid slice" clip-path="url(#clip1)"/><rect x="72" y="548" width="440" height="520" rx="34" fill="none" stroke="#ffffff" stroke-width="6"/>
+  <rect x="545" y="500" width="315" height="430" rx="30" fill="#ffffff"/><image href="https://raw.githubusercontent.com/sqz-group/repo-canva-sqz/main/imports/2026-07-06-dia-dos-pais-sqz-editavel/assets/garrafa.jpeg" x="545" y="500" width="315" height="430" preserveAspectRatio="xMidYMid slice" clip-path="url(#clip2)"/><rect x="545" y="500" width="315" height="430" rx="30" fill="none" stroke="#ffffff" stroke-width="6"/>
+  <rect x="675" y="895" width="330" height="355" rx="28" fill="#ffffff"/><image href="https://raw.githubusercontent.com/sqz-group/repo-canva-sqz/main/imports/2026-07-06-dia-dos-pais-sqz-editavel/assets/mochila.jpeg" x="675" y="895" width="330" height="355" preserveAspectRatio="xMidYMid slice" clip-path="url(#clip3)"/><rect x="675" y="895" width="330" height="355" rx="28" fill="none" stroke="#ffffff" stroke-width="6"/>
+  <rect x="102" y="1014" width="258" height="46" rx="23" fill="#070707"/><text x="231" y="1044" text-anchor="middle" font-family="Arial" font-size="22" font-weight="800" fill="#ffffff">Gourmet e cozinha</text>
+  <rect x="570" y="880" width="256" height="46" rx="23" fill="#070707"/><text x="698" y="910" text-anchor="middle" font-family="Arial" font-size="22" font-weight="800" fill="#ffffff">Rotina e mobilidade</text>
+  <rect x="702" y="1200" width="255" height="46" rx="23" fill="#070707"/><text x="829" y="1230" text-anchor="middle" font-family="Arial" font-size="22" font-weight="800" fill="#ffffff">Uso real no dia a dia</text>
+  <rect x="72" y="1180" width="550" height="80" rx="40" fill="#070707"/><text x="347" y="1230" text-anchor="middle" font-family="Arial" font-size="27" font-weight="900" fill="#ffffff">Curadoria SQZ para datas especiais</text>
+  <text x="78" y="1313" font-family="Arial" font-size="25" fill="#dedede">Cada projeto é uma solução — não um pedido.</text>
+</svg>
