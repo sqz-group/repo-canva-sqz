@@ -1,0 +1,20 @@
+{
+  "name": "Dia dos Pais SQZ — produtos novos — Canva editável",
+  "createdAt": "2026-07-06T09:24:22.629224-03:00",
+  "source": "OpenSquad social-media-sqz output + Revnu Media Drive / 02_Produtos / DIA DOS PAIS",
+  "files": [
+    "index.html",
+    "sqz-logo-horizontal-branco.png",
+    "preview-final-aprovacao.png",
+    "produto-1.png",
+    "produto-2.png",
+    "produto-3.png"
+  ],
+  "editability": "HTML com textos e imagens separados para importação no Canva; a importação pode variar por capacidade do Canva, mas não é PNG achatado.",
+  "safety": {
+    "secrets": false,
+    "browserProfile": false,
+    "tokens": false,
+    "publicSafeAssetsOnly": true
+  }
+}
