@@ -10,7 +10,7 @@ ROOT = Path(__file__).resolve().parent
 SRC = ROOT.parent / "2026-07-08-dia-dos-pais-stories-sqz" / "assets"
 TMP = ROOT / "_prepared"
 TMP.mkdir(parents=True, exist_ok=True)
-OUT = ROOT / "sqz-stories-dia-dos-pais-editavel.pptx"
+OUT = ROOT / "sqz-stories-dia-dos-pais-editavel-v2-sem-camadas-pretas.pptx"
 
 W, H = 7.5, 13.333333
 WHITE = RGBColor(255, 255, 255)
@@ -96,7 +96,7 @@ def add_tag(slide, text, x, y, w=1.75):
 s = prs.slides.add_slide(blank); add_bg(s)
 s.shapes.add_picture(str(crop_cover(SRC/'bottle_jeep.jpg','s1_bottle.jpg',3.6,5.1)), Inches(3.7), Inches(1.45), width=Inches(3.55), height=Inches(5.1))
 s.shapes.add_picture(str(crop_cover(SRC/'board_round.jpeg','s1_board.jpg',2.9,4.1)), Inches(0.48), Inches(5.35), width=Inches(2.9), height=Inches(4.1))
-add_overlay(s,0,0,W,H,38); add_logo(s); add_kicker(s,'Dia dos Pais • SQZ','01/05')
+add_logo(s); add_kicker(s,'Dia dos Pais • SQZ','01/05')
 add_text(s,'Presença que fica\nna rotina.',0.48,7.65,6.45,1.35,33,True)
 add_text(s,'Produtos personalizados para reconhecer pais, equipes e parceiros com utilidade real.',0.51,9.05,6.1,0.72,13,False,OFF)
 add_tag(s,'Story de abertura',4.95,10.85,1.95); add_bar(s,0.20)
@@ -104,7 +104,7 @@ add_tag(s,'Story de abertura',4.95,10.85,1.95); add_bar(s,0.20)
 # Slide 2
 s = prs.slides.add_slide(blank); add_bg(s)
 s.shapes.add_picture(str(crop_cover(SRC/'board_laser.jpeg','s2_board.jpg',6.54,5.9)), Inches(0.48), Inches(2.02), width=Inches(6.54), height=Inches(5.9))
-add_overlay(s,0,0,W,H,32); add_logo(s); add_kicker(s,'Produto em foco','02/05')
+add_logo(s); add_kicker(s,'Produto em foco','02/05')
 add_text(s,'Kit churrasco\ntambém é estratégia.',0.48,1.65,6.45,1.35,30,True)
 add_tag(s,'Gravação a laser',0.48,5.85,1.75)
 card = s.shapes.add_shape(MSO_SHAPE.ROUNDED_RECTANGLE, Inches(0.48), Inches(9.9), Inches(6.54), Inches(1.45))
@@ -125,7 +125,7 @@ add_tag(s,'Solução funcional',4.9,8.74,1.88); add_bar(s,0.60)
 s = prs.slides.add_slide(blank); add_bg(s)
 s.shapes.add_picture(str(crop_cover(SRC/'backpack.jpeg','s4_bag.jpg',4.0,5.0)), Inches(3.0), Inches(1.5), width=Inches(4.0), height=Inches(5.0))
 s.shapes.add_picture(str(crop_cover(SRC/'pen_desk.jpeg','s4_pen.jpg',2.7,3.4)), Inches(0.48), Inches(3.7), width=Inches(2.7), height=Inches(3.4))
-add_overlay(s,0,0,W,H,36); add_logo(s); add_kicker(s,'Kit corporativo','04/05')
+add_logo(s); add_kicker(s,'Kit corporativo','04/05')
 add_tag(s,'Curadoria SQZ',5.05,5.95,1.65)
 add_text(s,'Do escritório ao\ndeslocamento.',0.48,7.9,6.55,1.15,30,True)
 add_text(s,'Mochilas, ecobags, cadernos e canetas completam ações de relacionamento e endomarketing.',0.51,9.05,6.2,0.64,12,False,OFF)
@@ -143,7 +143,6 @@ imgs = [
 for fname,x,y,w,h in imgs:
     p = crop_cover(SRC/fname, f's5_{fname}.jpg', w,h)
     s.shapes.add_picture(str(p), Inches(x), Inches(y), width=Inches(w), height=Inches(h))
-add_overlay(s,0,0,W,H,20)
 add_text(s,'Quer transformar Dia dos Pais em presença de marca?',0.48,11.15,6.4,0.55,15,True)
 add_text(s,'Chama no direct e peça uma curadoria.',0.48,11.68,6.4,0.35,10,False,OFF)
 add_bar(s,1.0)
