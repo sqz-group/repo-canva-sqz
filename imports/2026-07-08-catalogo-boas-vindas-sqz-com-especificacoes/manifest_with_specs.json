@@ -1,0 +1,1427 @@
+{
+  "catalog": "Catálogo BOAS-VINDAS SQZ Group — versão ampliada",
+  "source": "https://www.squeezemania.com.br/",
+  "site_product_urls_total": 6694,
+  "selected_count": 83,
+  "pricing_note": "O site público não exibe preço unitário. A etiqueta “até R$20” é um filtro comercial provisório por perfil de produto; validar/ajustar com a tabela real da fábrica antes de envio comercial final.",
+  "criteria": [
+    "Ticket unitário baixo: até R$20/unidade após validação da tabela real da fábrica",
+    "Alta rotatividade e fácil decisão de compra",
+    "Ideal para pedido de teste/prospecção",
+    "Categorias: canetas, chaveiros, blocos, squeeze/copo plástico simples e escritório de entrada"
+  ],
+  "items": [
+    {
+      "category": "Canetas e escrita",
+      "title": "Caneta Plástica",
+      "sku": "01096",
+      "description": "Caneta plástica com detalhe emborrachado, carga esferográfica azul 1.0 mm e acionamento p…",
+      "url": "https://squeezemania.com.br/brinde/caneta-plastica-01096-4527",
+      "image_url": "https://ajg.im/img/produtos/3/01096-11.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/01_cane_01096.webp",
+      "specs": [
+        "Caneta plástica com detalhe emborrachado, carga esferográfica azul 1.0 mm e acionamento p…",
+        "Material: Plástico",
+        "Dimensões: 1.6 cm",
+        "Gravação: 3 cm x 0,8 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/001_01096.png"
+    },
+    {
+      "category": "Canetas e escrita",
+      "title": "Caneta Plástica",
+      "sku": "02089",
+      "description": "Caneta plástica com detalhe emborrachado, carga esferográfica azul 1.2 mm e acionamento p…",
+      "url": "https://squeezemania.com.br/brinde/caneta-plastica-02089-4362",
+      "image_url": "https://ajg.im/img/produtos/3/02089-7.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/02_cane_02089.webp",
+      "specs": [
+        "Caneta plástica com detalhe emborrachado, carga esferográfica azul 1.2 mm e acionamento p…",
+        "Material: Plástico",
+        "Dimensões: 1.4 cm",
+        "Gravação: 3,5 cm x 0,7 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/002_02089.png"
+    },
+    {
+      "category": "Canetas e escrita",
+      "title": "Caneta Plástica",
+      "sku": "1095C",
+      "description": "Caneta plástica com carga esferográfica azul e acionamento por clique.",
+      "url": "https://squeezemania.com.br/brinde/caneta-plastica-1095c-4880",
+      "image_url": "https://ajg.im/img/produtos/3/1095C-2.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/03_cane_1095c.webp",
+      "specs": [
+        "Caneta plástica com carga esferográfica azul e acionamento por clique.",
+        "Material: Plástico",
+        "Dimensões: 1.3 cm",
+        "Gravação: 0,6 cm x 3,7 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/003_1095C.png"
+    },
+    {
+      "category": "Canetas e escrita",
+      "title": "Caneta Plástica",
+      "sku": "18520",
+      "description": "Caneta plástica com carga esferográfica azul 1.0 mm e acionamento por clique.",
+      "url": "https://squeezemania.com.br/brinde/caneta-plastica-18520-4013",
+      "image_url": "https://ajg.im/img/produtos/3/18520-9.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/04_cane_18520.webp",
+      "specs": [
+        "Caneta plástica com carga esferográfica azul 1.0 mm e acionamento por clique.",
+        "Material: Plástico",
+        "Gravação: Clip 1 cm x 4,4 cm – 0,7 cm x 4,5 cm",
+        "Peso: 8g"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/004_18520.png"
+    },
+    {
+      "category": "Canetas e escrita",
+      "title": "Caneta Plástica",
+      "sku": "18521",
+      "description": "Caneta plástica com carga esferográfica azul 1.0 mm e acionamento por clique.",
+      "url": "https://squeezemania.com.br/brinde/caneta-plastica-18521-4021",
+      "image_url": "https://ajg.im/img/produtos/3/18521-9.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/05_cane_18521.webp",
+      "specs": [
+        "Caneta plástica com carga esferográfica azul 1.0 mm e acionamento por clique.",
+        "Material: Plástico",
+        "Gravação: Clip 0,7 cm x 3 cm – 1 cm x 4 cm",
+        "Peso: 9g"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/005_18521.png"
+    },
+    {
+      "category": "Canetas e escrita",
+      "title": "Caneta Plástica",
+      "sku": "18522",
+      "description": "Caneta plástica com carga esferográfica azul 1.0 mm e acionamento por clique.",
+      "url": "https://squeezemania.com.br/brinde/caneta-plastica-18522-4029",
+      "image_url": "https://ajg.im/img/produtos/3/18522-9.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/06_cane_18522.webp",
+      "specs": [
+        "Caneta plástica com carga esferográfica azul 1.0 mm e acionamento por clique.",
+        "Material: Plástico",
+        "Gravação: Clip 0,7 cm x 3 cm – 0,7 cm x 4 cm",
+        "Peso: 8g"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/006_18522.png"
+    },
+    {
+      "category": "Canetas e escrita",
+      "title": "Caneta Plástica",
+      "sku": "18527",
+      "description": "Caneta plástica translúcida colorida com detalhe inferior emborrachado. Aciona por clique…",
+      "url": "https://squeezemania.com.br/brinde/caneta-plastica-18527-4344",
+      "image_url": "https://ajg.im/img/produtos/3/18527-6.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/08_cane_18527.webp",
+      "specs": [
+        "Caneta plástica translúcida colorida com detalhe inferior emborrachado. Aciona por clique…",
+        "Material: Plástico",
+        "Dimensões: 0.7 cm",
+        "Peso: 7g"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/007_18527.png"
+    },
+    {
+      "category": "Canetas e escrita",
+      "title": "Caneta Plástica",
+      "sku": "01091C",
+      "description": "Caneta plástica com carga esferográfica azul 1.0 mm e acionamento por clique.",
+      "url": "https://squeezemania.com.br/brinde/caneta-plastica-01091c-5576",
+      "image_url": "https://ajg.im/img/produtos/3/01091C-9.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/09_cane_01091c.webp",
+      "specs": [
+        "Caneta plástica com carga esferográfica azul 1.0 mm e acionamento por clique.",
+        "Material: Plástico",
+        "Dimensões: 1.7 cm",
+        "Gravação: 6,5 cm x 1 cm - clip 3,6 cm x 0,9 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/008_01091C.png"
+    },
+    {
+      "category": "Canetas e escrita",
+      "title": "Caneta Plástica",
+      "sku": "01091L",
+      "description": "Caneta plástica com carga esferográfica azul 1.2 mm e acionamento por clique.",
+      "url": "https://squeezemania.com.br/brinde/caneta-plastica-01091l-5573",
+      "image_url": "https://ajg.im/img/produtos/3/01091L-4.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/10_cane_01091l.webp",
+      "specs": [
+        "Caneta plástica com carga esferográfica azul 1.2 mm e acionamento por clique.",
+        "Material: Plástico",
+        "Dimensões: 1.7 cm",
+        "Gravação: 6,5 cm x 1 cm - clip 3,6 cm x 0,9 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/009_01091L.png"
+    },
+    {
+      "category": "Canetas e escrita",
+      "title": "Caneta Plástica",
+      "sku": "01096T",
+      "description": "Caneta plástica com detalhe emborrachado, carga esferográfica azul 1.0 mm e acionamento p…",
+      "url": "https://squeezemania.com.br/brinde/caneta-plastica-01096t-5535",
+      "image_url": "https://ajg.im/img/produtos/3/01096T-10.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/11_cane_01096t.webp",
+      "specs": [
+        "Caneta plástica com detalhe emborrachado, carga esferográfica azul 1.0 mm e acionamento p…",
+        "Material: Plástico",
+        "Dimensões: 1.4 cm",
+        "Gravação: 4,2 cm x 1 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/010_01096T.png"
+    },
+    {
+      "category": "Canetas e escrita",
+      "title": "Caneta Plástica",
+      "sku": "01097C",
+      "description": "Caneta plástica com carga esferográfica azul 1.0 mm e acionamento por clique.",
+      "url": "https://squeezemania.com.br/brinde/caneta-plastica-01097c-4896",
+      "image_url": "https://ajg.im/img/produtos/3/01097C-2.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/12_cane_01097c.webp",
+      "specs": [
+        "Caneta plástica com carga esferográfica azul 1.0 mm e acionamento por clique.",
+        "Material: Plástico",
+        "Dimensões: 1.6 cm",
+        "Gravação: 4 cm x 0,8 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/011_01097C.png"
+    },
+    {
+      "category": "Canetas e escrita",
+      "title": "Caneta Plástica",
+      "sku": "05030",
+      "description": "Caneta plástica com detalhe emborrachado e acionamento por clique, carga esferográfica az…",
+      "url": "https://squeezemania.com.br/brinde/caneta-plastica-05030-33740",
+      "image_url": "https://ajg.im/img/produtos/3/05030-8.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/13_cane_05030.webp",
+      "specs": [
+        "Caneta plástica com detalhe emborrachado e acionamento por clique, carga esferográfica az…",
+        "Material: Plástico",
+        "Dimensões: 1.2 cm",
+        "Gravação: 0,5 cm x 4 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/012_05030.png"
+    },
+    {
+      "category": "Canetas e escrita",
+      "title": "Caneta Plástica",
+      "sku": "05031",
+      "description": "Caneta plástica com tampa e carga esferográfica azul 0.8mm.",
+      "url": "https://squeezemania.com.br/brinde/caneta-plastica-05031-33697",
+      "image_url": "https://ajg.im/img/produtos/3/05031-2.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/14_cane_05031.webp",
+      "specs": [
+        "Caneta plástica com tampa e carga esferográfica azul 0.8mm.",
+        "Material: Plástico",
+        "Dimensões: 1.2 cm",
+        "Gravação: 0,3 cm x 8,5 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/013_05031.png"
+    },
+    {
+      "category": "Canetas e escrita",
+      "title": "Caneta Plástica",
+      "sku": "06161C",
+      "description": "Caneta plástica com carga esferográfica azul 1.0 mm e acionamento por clique.",
+      "url": "https://squeezemania.com.br/brinde/caneta-plastica-06161c-3606",
+      "image_url": "https://ajg.im/img/produtos/3/06161C-11.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/15_cane_06161c.webp",
+      "specs": [
+        "Caneta plástica com carga esferográfica azul 1.0 mm e acionamento por clique.",
+        "Material: Plástico",
+        "Gravação: 6,4 cm x 0,7 cm",
+        "Peso: 6g"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/014_06161C.png"
+    },
+    {
+      "category": "Canetas e escrita",
+      "title": "Caneta Plástica",
+      "sku": "06161L",
+      "description": "Caneta plástica com carga esferográfica azul 1.0 mm e acionamento por clique.",
+      "url": "https://squeezemania.com.br/brinde/caneta-plastica-06161l-3615",
+      "image_url": "https://ajg.im/img/produtos/3/06161L-5.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/16_cane_06161l.webp",
+      "specs": [
+        "Caneta plástica com carga esferográfica azul 1.0 mm e acionamento por clique.",
+        "Material: Plástico",
+        "Gravação: 6,4 cm x 0,7 cm",
+        "Peso: 6g"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/015_06161L.png"
+    },
+    {
+      "category": "Canetas e escrita",
+      "title": "Caneta Plástica",
+      "sku": "06161T",
+      "description": "Caneta plástica translúcida com carga esferográfica azul 1.0 mm e acionamento por clique.",
+      "url": "https://squeezemania.com.br/brinde/caneta-plastica-06161t-3619",
+      "image_url": "https://ajg.im/img/produtos/3/06161T-12.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/17_cane_06161t.webp",
+      "specs": [
+        "Caneta plástica translúcida com carga esferográfica azul 1.0 mm e acionamento por clique.",
+        "Material: Plástico",
+        "Gravação: 6,4 cm x 0,7 cm",
+        "Peso: 6g"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/016_06161T.png"
+    },
+    {
+      "category": "Canetas e escrita",
+      "title": "Caneta Plástica",
+      "sku": "09110",
+      "description": "Caneta plástica com clip e ponteira em metal. Possui acionamento por clique e carga esfer…",
+      "url": "https://squeezemania.com.br/brinde/caneta-plastica-09110-56498",
+      "image_url": "https://ajg.im/img/produtos/3/09110-7.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/18_cane_09110.webp",
+      "specs": [
+        "Caneta plástica com clip e ponteira em metal. Possui acionamento por clique e carga esfer…",
+        "Material: Plástico, Metal",
+        "Dimensões: 1.2 cm",
+        "Gravação: 0,8 cm x 6 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/017_09110.png"
+    },
+    {
+      "category": "Canetas e escrita",
+      "title": "Caneta Plástica",
+      "sku": "09114",
+      "description": "Caneta feita inteiramente em plástico. Conta com acionamento em por clique e carga esfero…",
+      "url": "https://squeezemania.com.br/brinde/caneta-plastica-09114-57119",
+      "image_url": "https://ajg.im/img/produtos/3/09114-9.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/19_cane_09114.webp",
+      "specs": [
+        "Caneta feita inteiramente em plástico. Conta com acionamento em por clique e carga esfero…",
+        "Material: Plástico",
+        "Dimensões: 13.7 x 1.4 cm",
+        "Gravação: 0,8 cm x 8 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/018_09114.png"
+    },
+    {
+      "category": "Canetas e escrita",
+      "title": "Caneta Plástica",
+      "sku": "09229",
+      "description": "Caneta plástica com acionamento por clique feito em bambu e carga esferográfica azul de 1…",
+      "url": "https://squeezemania.com.br/brinde/caneta-plastica-09229-58064",
+      "image_url": "https://ajg.im/img/produtos/3/09229-9.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/20_cane_09229.webp",
+      "specs": [
+        "Caneta plástica com acionamento por clique feito em bambu e carga esferográfica azul de 1…",
+        "Material: Plástico",
+        "Dimensões: 14.4 x 1.4 cm",
+        "Gravação: 0,8 cm x 9 cm (corpo da caneta) - 0,8 cm x 4 cm (clipe da caneta)"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/019_09229.png"
+    },
+    {
+      "category": "Canetas e escrita",
+      "title": "Caneta Plástica",
+      "sku": "1087L",
+      "description": "Caneta plástica com tampa e carga esferográfica azul 1.0mm., Caneta-Plastica-1087L",
+      "url": "https://squeezemania.com.br/brinde/caneta-plastica-1087l-44206",
+      "image_url": "https://ajg.im/img/produtos/3/1087L-12.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/21_cane_1087l.webp",
+      "specs": [
+        "Caneta plástica com tampa e carga esferográfica azul 1.0mm., Caneta-Plastica-1087L",
+        "Material: Plástico",
+        "Dimensões: 14.3 x 1.4 cm",
+        "Gravação: 3,5 cm x 0,5 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/020_1087L.png"
+    },
+    {
+      "category": "Canetas e escrita",
+      "title": "Caneta Plástica",
+      "sku": "1089B",
+      "description": "Caneta plástica com carga esferográfica azul 1.0 mm e acionamento por clique.",
+      "url": "https://squeezemania.com.br/brinde/caneta-plastica-1089b-36957",
+      "image_url": "https://ajg.im/img/produtos/3/1089B-2.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/22_cane_1089b.webp",
+      "specs": [
+        "Caneta plástica com carga esferográfica azul 1.0 mm e acionamento por clique.",
+        "Material: Plástico",
+        "Dimensões: 1.8 cm",
+        "Gravação: 5 cm x 0,6 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/021_1089B.png"
+    },
+    {
+      "category": "Canetas e escrita",
+      "title": "Caneta Plástica",
+      "sku": "1089C",
+      "description": "Caneta plástica com carga esferográfica azul 1.0 mm e acionamento por clique.",
+      "url": "https://squeezemania.com.br/brinde/caneta-plastica-1089c-37145",
+      "image_url": "https://ajg.im/img/produtos/3/1089C-10.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/23_cane_1089c.webp",
+      "specs": [
+        "Caneta plástica com carga esferográfica azul 1.0 mm e acionamento por clique.",
+        "Material: Plástico",
+        "Dimensões: 1.8 cm",
+        "Gravação: 5 cm x 0,6 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/022_1089C.png"
+    },
+    {
+      "category": "Canetas e escrita",
+      "title": "Caneta Plástica",
+      "sku": "1089T",
+      "description": "Caneta plástica translúcida com carga esferográfica azul 1.0 mm e acionamento por clique.",
+      "url": "https://squeezemania.com.br/brinde/caneta-plastica-1089t-37155",
+      "image_url": "https://ajg.im/img/produtos/3/1089T-10.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/24_cane_1089t.webp",
+      "specs": [
+        "Caneta plástica translúcida com carga esferográfica azul 1.0 mm e acionamento por clique.",
+        "Material: Plástico",
+        "Dimensões: 1.8 cm",
+        "Gravação: 5 cm x 0,6 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/023_1089T.png"
+    },
+    {
+      "category": "Chaveiros",
+      "title": "Chaveiro Acrílico Coração",
+      "sku": "18728",
+      "description": "Chaveiro de acrílico em formato de coração, frente verso e liso. Possui prendedor de plás…",
+      "url": "https://squeezemania.com.br/brinde/chaveiro-acrilico-coracao-18728-38652",
+      "image_url": "https://ajg.im/img/produtos/3/18728-2.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/25_chav_18728.webp",
+      "specs": [
+        "Chaveiro de acrílico em formato de coração, frente verso e liso. Possui prendedor de plás…",
+        "Material: Plástico, Acrílico",
+        "Dimensões: 4.5 cm",
+        "Gravação: 4,4 cm x 4 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/024_18728.png"
+    },
+    {
+      "category": "Chaveiros",
+      "title": "Chaveiro Acrílico Redondo",
+      "sku": "18727",
+      "description": "Chaveiro de acrílico em formato redondo, frente verso e liso. Possui prendedor de plástic…",
+      "url": "https://squeezemania.com.br/brinde/chaveiro-acrilico-redondo-18727-38648",
+      "image_url": "https://ajg.im/img/produtos/3/18727-2.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/26_chav_18727.webp",
+      "specs": [
+        "Chaveiro de acrílico em formato redondo, frente verso e liso. Possui prendedor de plástic…",
+        "Material: Plástico, Acrílico",
+        "Dimensões: 4.2 cm",
+        "Gravação: 4,2 cm x 4,2 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/025_18727.png"
+    },
+    {
+      "category": "Chaveiros",
+      "title": "Chaveiro Acrílico Quadrado",
+      "sku": "18729",
+      "description": "Chaveiro de acrílico em formato quadrado, frente, verso liso. Possui prendedor de plástic…",
+      "url": "https://squeezemania.com.br/brinde/chaveiro-acrilico-quadrado-18729-38650",
+      "image_url": "https://ajg.im/img/produtos/3/18729-5.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/27_chav_18729.webp",
+      "specs": [
+        "Chaveiro de acrílico em formato quadrado, frente, verso liso. Possui prendedor de plástic…",
+        "Material: Plástico, Acrílico",
+        "Dimensões: 4.5 cm",
+        "Gravação: 4 cm x 4 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/026_18729.png"
+    },
+    {
+      "category": "Chaveiros",
+      "title": "Chaveiro Plástico",
+      "sku": "15025",
+      "description": "Chaveiro plástico em formato de casa., Chaveiro-Plastico-15025",
+      "url": "https://squeezemania.com.br/brinde/chaveiro-plastico-15025-40167",
+      "image_url": "https://ajg.im/img/produtos/3/15025-6.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/29_chav_15025.webp",
+      "specs": [
+        "Chaveiro plástico em formato de casa., Chaveiro-Plastico-15025",
+        "Material: Plástico",
+        "Dimensões: 4.2 x 4.4 cm",
+        "Gravação: 3,2 cm x 3,2 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/027_15025.png"
+    },
+    {
+      "category": "Chaveiros",
+      "title": "Chaveiro Plástico",
+      "sku": "P$BRINQ126-MIS",
+      "description": "Chaveiro em plástico com formato inspirado em desenhos estilizados. Possui correia plásti…",
+      "url": "https://squeezemania.com.br/brinde/chaveiro-plastico-p-brinq126-mis-54344",
+      "image_url": "https://ajg.im/img/produtos/3/P_BRINQ126-MIS-2.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/30_chav_p-brinq126-mis.webp",
+      "specs": [
+        "Chaveiro em plástico com formato inspirado em desenhos estilizados. Possui correia plásti…",
+        "Material: Plástico",
+        "Dimensões: 21 x 5.9 cm",
+        "Gravação: 1,5 cm x 3,5 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/028_PSBRINQ126-MIS.png"
+    },
+    {
+      "category": "Chaveiros",
+      "title": "Chaveiro Plástico Capivara",
+      "sku": "P$BRINQ104-MIS",
+      "description": "Chaveiro em plástico com design de capivara e mecanismo de corda que permite o movimento…",
+      "url": "https://squeezemania.com.br/brinde/chaveiro-plastico-capivara-p-brinq104-mis-54408",
+      "image_url": "https://ajg.im/img/produtos/3/P_BRINQ104-MIS-2.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/32_chav_p-brinq104-mis.webp",
+      "specs": [
+        "Chaveiro em plástico com design de capivara e mecanismo de corda que permite o movimento…",
+        "Material: Plástico, Metal",
+        "Dimensões: 11.3 x 4.5 cm",
+        "Gravação: 1 cm x 0,7 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/029_PSBRINQ104-MIS.png"
+    },
+    {
+      "category": "Chaveiros",
+      "title": "Chaveiro Plástico Estrela",
+      "sku": "P@13278",
+      "description": "Chaveiro plástico formato estrela transparente., chaveiro-plastico-estrela-resina-acrilic…",
+      "url": "https://squeezemania.com.br/brinde/chaveiro-plastico-estrela-p-13278-chaveiro-plastico-estrela-resina-acrilico-ceu-brinde-1424",
+      "image_url": "https://ajg.im/img/produtos/3/P_13278-2.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/33_chav_p-13278.webp",
+      "specs": [
+        "Chaveiro plástico formato estrela transparente., chaveiro-plastico-estrela-resina-acrilic…",
+        "Material: Plástico",
+        "Gravação: 3,8 cm x 4 cm",
+        "Peso: 5g"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/030_PA13278.png"
+    },
+    {
+      "category": "Chaveiros",
+      "title": "Chaveiro Tijolo",
+      "sku": "12387",
+      "description": "Chaveiro plástico formato tijolo, possui um lado liso ideal para personalização e o resta…",
+      "url": "https://squeezemania.com.br/brinde/chaveiro-tijolo-12387-chaveiro-plastico-tijolo-construcao-obra-pedreiro-casa-igreja-brinde-1673",
+      "image_url": "https://ajg.im/img/produtos/3/12387-3.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/34_chav_12387.webp",
+      "specs": [
+        "Chaveiro plástico formato tijolo, possui um lado liso ideal para personalização e o resta…",
+        "Material: Plástico",
+        "Gravação: 2 cm x 2,4 cm",
+        "Peso: 10g"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/031_12387.png"
+    },
+    {
+      "category": "Chaveiros",
+      "title": "Chaveiro Plástico",
+      "sku": "10123",
+      "description": "Chaveiro plástico formato pneu, aro detalhado plástico colorido de um lado e lado inverso…",
+      "url": "https://squeezemania.com.br/brinde/chaveiro-plastico-10123-chaveiro-plastico-pneu-motorista-carro-moto-automovel-brinde-resina-1431",
+      "image_url": "https://ajg.im/img/produtos/3/10123-18.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/35_chav_10123.webp",
+      "specs": [
+        "Chaveiro plástico formato pneu, aro detalhado plástico colorido de um lado e lado inverso…",
+        "Material: Plástico",
+        "Gravação: 2,4 cm x 2,4 cm",
+        "Peso: 20g"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/032_10123.png"
+    },
+    {
+      "category": "Chaveiros",
+      "title": "Chaveiro Plástico Bloco de Concreto",
+      "sku": "13789",
+      "description": "Chaveiro plástico formato bloco de concreto, frente com área retangular lisa perfeita par…",
+      "url": "https://squeezemania.com.br/brinde/chaveiro-plastico-bloco-de-concreto-13789-bloco-material-obra-construcao-engenharia-pedreiro-arquiteto-deposito-3131",
+      "image_url": "https://ajg.im/img/produtos/3/13789-3.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/36_chav_13789.webp",
+      "specs": [
+        "Chaveiro plástico formato bloco de concreto, frente com área retangular lisa perfeita par…",
+        "Material: Plástico",
+        "Gravação: 1,7 cm x 3 cm",
+        "Peso: 10g"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/033_13789.png"
+    },
+    {
+      "category": "Chaveiros",
+      "title": "Chaveiro Capacete EPI",
+      "sku": "14493",
+      "description": "Chaveiro capacete de segurança EPI, material plástico., Chaveiro-Capacete-EPI-14493",
+      "url": "https://squeezemania.com.br/brinde/chaveiro-capacete-epi-14493-6017",
+      "image_url": "https://ajg.im/img/produtos/3/14493-7.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/37_chav_14493.webp",
+      "specs": [
+        "Chaveiro capacete de segurança EPI, material plástico., Chaveiro-Capacete-EPI-14493",
+        "Material: Plástico",
+        "Dimensões: 2.3 x 3.7 cm",
+        "Gravação: 2 cm x 1,2 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/034_14493.png"
+    },
+    {
+      "category": "Chaveiros",
+      "title": "Chaveiro Capacete EPI",
+      "sku": "10872",
+      "description": "Chaveiro capacete de segurança EPI em metal., Chaveiro-Capacete-EPI-10872",
+      "url": "https://squeezemania.com.br/brinde/chaveiro-capacete-epi-10872-42998",
+      "image_url": "https://ajg.im/img/produtos/3/10872-2.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/38_chav_10872.webp",
+      "specs": [
+        "Chaveiro capacete de segurança EPI em metal., Chaveiro-Capacete-EPI-10872",
+        "Material: Metal",
+        "Dimensões: 1.6 x 2.6 cm",
+        "Gravação: 0,5 cm x 0,9 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/035_10872.png"
+    },
+    {
+      "category": "Chaveiros",
+      "title": "Chaveiro Capacete EPI",
+      "sku": "06085B",
+      "description": "Para quem é fã de segurança no trabalho, este é o chaveiro perfeito. Feito de material pl…",
+      "url": "https://squeezemania.com.br/brinde/chaveiro-capacete-epi-06085b-44872",
+      "image_url": "https://ajg.im/img/produtos/3/06085B-6.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/39_chav_06085b.webp",
+      "specs": [
+        "Para quem é fã de segurança no trabalho, este é o chaveiro perfeito. Feito de material pl…",
+        "Material: Plástico",
+        "Dimensões: 3.8 x 3.3 cm",
+        "Gravação: 1,2 cm x 1 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/036_06085B.png"
+    },
+    {
+      "category": "Chaveiros",
+      "title": "Chaveiro Capacete EPI Plástico",
+      "sku": "06085",
+      "description": "Um chaveiro em formato de capacete de segurança pensado para oferecer uma opção criativa…",
+      "url": "https://squeezemania.com.br/brinde/chaveiro-capacete-epi-plastico-06085-40193",
+      "image_url": "https://ajg.im/img/produtos/3/06085-6.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/40_chav_06085.webp",
+      "specs": [
+        "Um chaveiro em formato de capacete de segurança pensado para oferecer uma opção criativa…",
+        "Material: Plástico, Metal",
+        "Dimensões: 2.2 x 3.3 cm",
+        "Gravação: 1,2 cm x 1 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/037_06085.png"
+    },
+    {
+      "category": "Chaveiros",
+      "title": "Chaveiro Abridor Metal",
+      "sku": "05083",
+      "description": "Chaveiro abridor metálico em formato de chinelo., Chaveiro-Abridor-Metal-05083",
+      "url": "https://squeezemania.com.br/brinde/chaveiro-abridor-metal-05083-36362",
+      "image_url": "https://ajg.im/img/produtos/3/05083-4.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/41_chav_05083.webp",
+      "specs": [
+        "Chaveiro abridor metálico em formato de chinelo., Chaveiro-Abridor-Metal-05083",
+        "Material: Metal",
+        "Dimensões: 3 cm",
+        "Gravação: 1,8 cm x 1 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/038_05083.png"
+    },
+    {
+      "category": "Chaveiros",
+      "title": "Chaveiro Abridor Madeira",
+      "sku": "06003",
+      "description": "Chaveiro em madeira com abridor de garrafas em metal e argola de ferro niquelado., Chavei…",
+      "url": "https://squeezemania.com.br/brinde/chaveiro-abridor-madeira-06003-36845",
+      "image_url": "https://ajg.im/img/produtos/3/06003-2.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/42_chav_06003.webp",
+      "specs": [
+        "Chaveiro em madeira com abridor de garrafas em metal e argola de ferro niquelado., Chavei…",
+        "Material: Metal, Madeira",
+        "Dimensões: 7 x 4.1 cm",
+        "Gravação: 2 cm x 3 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/039_06003.png"
+    },
+    {
+      "category": "Blocos e anotação",
+      "title": "BLOCO PARA ANOTAÇÕES COM CANETA - AZUL",
+      "sku": "LE-32733",
+      "description": "Bloco para anotações com caneta.\\nO bloco conta com 100 folhas não pautadas. Caneta esfer…",
+      "url": "https://squeezemania.com.br/brinde/bloco-para-anotacoes-com-caneta-azul-le-32733-35166",
+      "image_url": "https://ajg.im/img/produtos/3/LE-32733-1.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/43_bloc_le-32733.webp",
+      "specs": [
+        "Bloco para anotações com caneta.\\nO bloco conta com 100 folhas não pautadas. Caneta esfer…",
+        "Material: Metal",
+        "Dimensões: 140 x 95 x 10 cm",
+        "Peso: 100g"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/040_LE-32733.png"
+    },
+    {
+      "category": "Blocos e anotação",
+      "title": "BLOCO PARA ANOTAÇÕES COM CANETA - PRETO",
+      "sku": "LE-32730",
+      "description": "Bloco para anotações com caneta.\\nO bloco conta com 100 folhas não pautadas. Caneta esfer…",
+      "url": "https://squeezemania.com.br/brinde/bloco-para-anotacoes-com-caneta-preto-le-32730-35162",
+      "image_url": "https://ajg.im/img/produtos/3/LE-32730-1.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/44_bloc_le-32730.webp",
+      "specs": [
+        "Bloco para anotações com caneta.\\nO bloco conta com 100 folhas não pautadas. Caneta esfer…",
+        "Material: Metal",
+        "Peso: 100g",
+        "Mínimo: 1 peças"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/041_LE-32730.png"
+    },
+    {
+      "category": "Blocos e anotação",
+      "title": "BLOCO PARA ANOTAÇÕES COM CANETA - VERDE",
+      "sku": "LE-32735",
+      "description": "Bloco para anotações com caneta.\\nO bloco conta com 100 folhas não pautadas. Caneta esfer…",
+      "url": "https://squeezemania.com.br/brinde/bloco-para-anotacoes-com-caneta-verde-le-32735-35170",
+      "image_url": "https://ajg.im/img/produtos/3/LE-32735-1.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/45_bloc_le-32735.webp",
+      "specs": [
+        "Bloco para anotações com caneta.\\nO bloco conta com 100 folhas não pautadas. Caneta esfer…",
+        "Material: Metal",
+        "Dimensões: 140 x 95 x 10 cm",
+        "Peso: 100g"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/042_LE-32735.png"
+    },
+    {
+      "category": "Blocos e anotação",
+      "title": "BLOCO PARA ANOTAÇÕES PRETO COM CANETA",
+      "sku": "LE-3273C",
+      "description": "Bloco para anotações preto com caneta.\\nO bloco conta com 100 folhas não pautadas. \\nCane…",
+      "url": "https://squeezemania.com.br/brinde/bloco-para-anotacoes-preto-com-caneta-le-3273c-38458",
+      "image_url": "https://ajg.im/img/produtos/3/LE-3273C-1.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/46_bloc_le-3273c.webp",
+      "specs": [
+        "Bloco para anotações preto com caneta.\\nO bloco conta com 100 folhas não pautadas. \\nCane…",
+        "Material: Metal",
+        "Dimensões: 160 x 130 x 20 cm",
+        "Peso: 138g"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/043_LE-3273C.png"
+    },
+    {
+      "category": "Blocos e anotação",
+      "title": "BLOCO PARA ANOTAÇÕES COM CANETA - VERMELHO",
+      "sku": "LE-32734",
+      "description": "Bloco para anotações com caneta.\\nO bloco conta com 100 folhas não pautadas. Caneta esfer…",
+      "url": "https://squeezemania.com.br/brinde/bloco-para-anotacoes-com-caneta-vermelho-le-32734-35168",
+      "image_url": "https://ajg.im/img/produtos/3/LE-32734-1.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/47_bloc_le-32734.webp",
+      "specs": [
+        "Bloco para anotações com caneta.\\nO bloco conta com 100 folhas não pautadas. Caneta esfer…",
+        "Material: Metal",
+        "Dimensões: 140 x 95 x 10 cm",
+        "Peso: 100g"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/044_LE-32734.png"
+    },
+    {
+      "category": "Blocos e anotação",
+      "title": "BLOCO PARA ANOTAÇÕES SIMPLES - AZUL - 100 FLS",
+      "sku": "LE-32003",
+      "description": "Bloco para anotações azul.\\nConta com 100 folhas não pautadas., BLOCO-PARA-ANOTACOES-SIMP…",
+      "url": "https://squeezemania.com.br/brinde/bloco-para-anotacoes-simples-azul-100-fls-le-32003-38456",
+      "image_url": "https://ajg.im/img/produtos/3/LE-32003-1.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/48_bloc_le-32003.webp",
+      "specs": [
+        "Bloco para anotações azul.\\nConta com 100 folhas não pautadas., BLOCO-PARA-ANOTACOES-SIMP…",
+        "Dimensões: 140 x 85 x 10 cm",
+        "Peso: 90g",
+        "Mínimo: 1 peças"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/045_LE-32003.png"
+    },
+    {
+      "category": "Blocos e anotação",
+      "title": "BLOCO PARA ANOTAÇÕES SIMPLES - PRETO - 100 FLS",
+      "sku": "LE-32001",
+      "description": "Bloco para anotações preto.\\nConta com 100 folhas não pautadas., BLOCO-PARA-ANOTACOES-SIM…",
+      "url": "https://squeezemania.com.br/brinde/bloco-para-anotacoes-simples-preto-100-fls-le-32001-35146",
+      "image_url": "https://ajg.im/img/produtos/3/LE-32001-1.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/49_bloc_le-32001.webp",
+      "specs": [
+        "Bloco para anotações preto.\\nConta com 100 folhas não pautadas., BLOCO-PARA-ANOTACOES-SIM…",
+        "Dimensões: 140 x 85 x 10 cm",
+        "Peso: 90g",
+        "Mínimo: 1 peças"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/046_LE-32001.png"
+    },
+    {
+      "category": "Blocos e anotação",
+      "title": "BLOCO PARA ANOTAÇÕES SIMPLES - VERDE - 100 FLS",
+      "sku": "LE-32005",
+      "description": "Bloco para anotações verde.\\nConta com 100 folhas não pautadas., BLOCO-PARA-ANOTACOES-SIM…",
+      "url": "https://squeezemania.com.br/brinde/bloco-para-anotacoes-simples-verde-100-fls-le-32005-35150",
+      "image_url": "https://ajg.im/img/produtos/3/LE-32005-1.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/50_bloc_le-32005.webp",
+      "specs": [
+        "Bloco para anotações verde.\\nConta com 100 folhas não pautadas., BLOCO-PARA-ANOTACOES-SIM…",
+        "Dimensões: 140 x 85 x 10 cm",
+        "Peso: 90g",
+        "Mínimo: 1 peças"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/047_LE-32005.png"
+    },
+    {
+      "category": "Blocos e anotação",
+      "title": "BLOCO PARA ANOTAÇÕES COM CANETA - PRETO/PRATA",
+      "sku": "LE-32731",
+      "description": "Bloco para anotações com caneta.\\nO bloco conta com 100 folhas não pautadas. Caneta esfer…",
+      "url": "https://squeezemania.com.br/brinde/bloco-para-anotacoes-com-caneta-preto-prata-le-32731-35164",
+      "image_url": "https://ajg.im/img/produtos/3/LE-32731-1.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/51_bloc_le-32731.webp",
+      "specs": [
+        "Bloco para anotações com caneta.\\nO bloco conta com 100 folhas não pautadas. Caneta esfer…",
+        "Material: Metal",
+        "Dimensões: 140 x 95 x 10 cm",
+        "Peso: 100g"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/048_LE-32731.png"
+    },
+    {
+      "category": "Blocos e anotação",
+      "title": "BLOCO PARA ANOTAÇÕES SIMPLES - VERMELHO - 100 FLS",
+      "sku": "LE-32004",
+      "description": "Bloco para anotações vermelho.\\nConta com 100 folhas não pautadas., BLOCO-PARA-ANOTACOES-…",
+      "url": "https://squeezemania.com.br/brinde/bloco-para-anotacoes-simples-vermelho-100-fls-le-32004-35148",
+      "image_url": "https://ajg.im/img/produtos/3/LE-32004-1.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/52_bloc_le-32004.webp",
+      "specs": [
+        "Bloco para anotações vermelho.\\nConta com 100 folhas não pautadas., BLOCO-PARA-ANOTACOES-…",
+        "Dimensões: 140 x 85 x 10 cm",
+        "Peso: 90g",
+        "Mínimo: 1 peças"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/049_LE-32004.png"
+    },
+    {
+      "category": "Blocos e anotação",
+      "title": "Bloco de Anotações",
+      "sku": "BG073",
+      "description": "Bloco para anotações, 80 folhas pautadas, formato A5, Capa em material sintético (imitand…",
+      "url": "https://squeezemania.com.br/brinde/bloco-de-anotacoes-bg073-bloco-para-anotacoes-bloco-brinde-brinde-11518",
+      "image_url": "https://ajg.im/img/produtos/3/Bloco-de-Anotacoes-2-1587585791.jpg",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/53_bloc_bg073.jpg",
+      "specs": [
+        "Bloco para anotações, 80 folhas pautadas, formato A5, Capa em material sintético (imitand…",
+        "Dimensões: 21,6 x 14,3 cm",
+        "Peso: 259g",
+        "Mínimo: 1 peças"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/050_BG073.png"
+    },
+    {
+      "category": "Blocos e anotação",
+      "title": "Bloco de Anotações rPET",
+      "sku": "15358",
+      "description": "Bloco de anotações com capa dura em rPET, encadernação Wire-O e tira em couro sintético c…",
+      "url": "https://squeezemania.com.br/brinde/bloco-de-anotacoes-rpet-15358-55270",
+      "image_url": "https://ajg.im/img/produtos/3/15358-4.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/54_bloc_15358.webp",
+      "specs": [
+        "Bloco de anotações com capa dura em rPET, encadernação Wire-O e tira em couro sintético c…",
+        "Material: rPET",
+        "Dimensões: 12.5 cm",
+        "Gravação: 10 cm x 8 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/051_15358.png"
+    },
+    {
+      "category": "Blocos e anotação",
+      "title": "Bloco de Anotações Cubo",
+      "sku": "12516B",
+      "description": "Bloco de anotações formato cubo com autoadesivos, abre e fecha em diagonal. Possui 5 bloc…",
+      "url": "https://squeezemania.com.br/brinde/bloco-de-anotacoes-cubo-12516b-15785",
+      "image_url": "https://ajg.im/img/produtos/3/12516B-4.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/55_bloc_12516b.webp",
+      "specs": [
+        "Bloco de anotações formato cubo com autoadesivos, abre e fecha em diagonal. Possui 5 bloc…",
+        "Dimensões: 9.5 x 9.5 cm",
+        "Gravação: 8 cm x 8 cm",
+        "Peso: 313g"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/052_12516B.png"
+    },
+    {
+      "category": "Blocos e anotação",
+      "title": "Bloco de Anotações de Mesa",
+      "sku": "15305",
+      "description": "Bloco de anotações de mesa com trilho de ferro e capa dura em percalux. Possui aproximada…",
+      "url": "https://squeezemania.com.br/brinde/bloco-de-anotacoes-de-mesa-15305-53276",
+      "image_url": "https://ajg.im/img/produtos/3/15305-13.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/56_bloc_15305.webp",
+      "specs": [
+        "Bloco de anotações de mesa com trilho de ferro e capa dura em percalux. Possui aproximada…",
+        "Dimensões: 14.8 cm",
+        "Gravação: 14 cm x 11 cm",
+        "Peso: 348g"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/053_15305.png"
+    },
+    {
+      "category": "Blocos e anotação",
+      "title": "Bloco de Anotações em Kraft",
+      "sku": "14836",
+      "description": "Bloco de anotações capa dura em kraft com wire-o. Contém aproximadamente 100 folhas sem p…",
+      "url": "https://squeezemania.com.br/brinde/bloco-de-anotacoes-em-kraft-14836-33896",
+      "image_url": "https://ajg.im/img/produtos/3/14836-6.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/57_bloc_14836.webp",
+      "specs": [
+        "Bloco de anotações capa dura em kraft com wire-o. Contém aproximadamente 100 folhas sem p…",
+        "Material: Kraft",
+        "Dimensões: 15.2 x 8.5 cm",
+        "Gravação: 11 cm x 5,5 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/054_14836.png"
+    },
+    {
+      "category": "Blocos e anotação",
+      "title": "Bloco de Anotações Ecológico",
+      "sku": "14689",
+      "description": "Bloco de anotações ecológico com autoadesivos, porta caneta e porta retrato. Contém conju…",
+      "url": "https://squeezemania.com.br/brinde/bloco-de-anotacoes-ecologico-14689-15783",
+      "image_url": "https://ajg.im/img/produtos/3/14689-4.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/58_bloc_14689.webp",
+      "specs": [
+        "Bloco de anotações ecológico com autoadesivos, porta caneta e porta retrato. Contém conju…",
+        "Dimensões: 9.5 x 13.6 cm",
+        "Gravação: 1,4 cm x 8,7 cm - Foto 7 cm x 10 cm",
+        "Peso: 92g"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/055_14689.png"
+    },
+    {
+      "category": "Blocos e anotação",
+      "title": "Bloco de Anotações Ecológico",
+      "sku": "14818",
+      "description": "Bloco de anotações ecológico com wire-o. Contém aproximadamente 80 páginas pautadas na co…",
+      "url": "https://squeezemania.com.br/brinde/bloco-de-anotacoes-ecologico-14818-33661",
+      "image_url": "https://ajg.im/img/produtos/3/14818-2.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/59_bloc_14818.webp",
+      "specs": [
+        "Bloco de anotações ecológico com wire-o. Contém aproximadamente 80 páginas pautadas na co…",
+        "Dimensões: 14.5 x 8.8 cm",
+        "Gravação: 10 cm x 7 cm",
+        "Peso: 64g"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/056_14818.png"
+    },
+    {
+      "category": "Blocos e anotação",
+      "title": "Bloco de Anotações Ecológico",
+      "sku": "15146",
+      "description": "Organize suas ideias de maneira sustentável com o Bloco de Anotações em MDF Ecológico. Co…",
+      "url": "https://squeezemania.com.br/brinde/bloco-de-anotacoes-ecologico-15146-44519",
+      "image_url": "https://ajg.im/img/produtos/3/15146-2.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/60_bloc_15146.webp",
+      "specs": [
+        "Organize suas ideias de maneira sustentável com o Bloco de Anotações em MDF Ecológico. Co…",
+        "Dimensões: 23 x 15 cm",
+        "Gravação: 15 cm x 12 cm",
+        "Peso: 409g"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/057_15146.png"
+    },
+    {
+      "category": "Squeezes e copos plásticos",
+      "title": "Squeeze Plástico 500ml",
+      "sku": "09072",
+      "description": "Squeeze 500ml de plástico resistente, possui detalhe em relevo na parte superior e tampa…",
+      "url": "https://squeezemania.com.br/brinde/squeeze-plastico-500ml-09072-3485",
+      "image_url": "https://ajg.im/img/produtos/3/09072-11.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/62_sque_09072.webp",
+      "specs": [
+        "Squeeze 500ml de plástico resistente, possui detalhe em relevo na parte superior e tampa…",
+        "Material: Plástico",
+        "Capacidade: 500ml",
+        "Gravação: 10 cm x 7 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/058_09072.png"
+    },
+    {
+      "category": "Squeezes e copos plásticos",
+      "title": "Squeeze Plástico 550ml",
+      "sku": "14375",
+      "description": "Squeeze de polietileno 550ml com tampa plástica rosqueável, contém alça e tampa protetora…",
+      "url": "https://squeezemania.com.br/brinde/squeeze-plastico-550ml-14375-5297",
+      "image_url": "https://ajg.im/img/produtos/3/14375-8.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/63_sque_14375.webp",
+      "specs": [
+        "Squeeze de polietileno 550ml com tampa plástica rosqueável, contém alça e tampa protetora…",
+        "Material: Plástico",
+        "Capacidade: 550ml",
+        "Dimensões: 21 x 9.2 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/059_14375.png"
+    },
+    {
+      "category": "Squeezes e copos plásticos",
+      "title": "Squeeze Plástico 700ml",
+      "sku": "18553",
+      "description": "Squeeze plástico 700ml com peneira e alça para transporte. Com visual transparente colori…",
+      "url": "https://squeezemania.com.br/brinde/squeeze-plastico-700ml-18553-5315",
+      "image_url": "https://ajg.im/img/produtos/3/18553-7.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/64_sque_18553.webp",
+      "specs": [
+        "Squeeze plástico 700ml com peneira e alça para transporte. Com visual transparente colori…",
+        "Material: Plástico",
+        "Capacidade: 700ml",
+        "Dimensões: 22.5 x 7.6 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/060_18553.png"
+    },
+    {
+      "category": "Squeezes e copos plásticos",
+      "title": "Squeeze Plástico 700ml",
+      "sku": "18556",
+      "description": "Squeeze plástico 700ml livre de BPA. Corpo de polipropileno transparente colorida com det…",
+      "url": "https://squeezemania.com.br/brinde/squeeze-plastico-700ml-18556-5419",
+      "image_url": "https://ajg.im/img/produtos/3/18556-9.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/65_sque_18556.webp",
+      "specs": [
+        "Squeeze plástico 700ml livre de BPA. Corpo de polipropileno transparente colorida com det…",
+        "Material: Plástico",
+        "Capacidade: 700ml",
+        "Dimensões: 23.5 x 7.3 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/061_18556.png"
+    },
+    {
+      "category": "Squeezes e copos plásticos",
+      "title": "Squeeze Plástico 420ml",
+      "sku": "18788",
+      "description": "Hidratação segura, saudável e prática. Com 420ml de capacidade, nosso squeeze plástico ve…",
+      "url": "https://squeezemania.com.br/brinde/squeeze-plastico-420ml-18788-43252",
+      "image_url": "https://ajg.im/img/produtos/3/18788-4.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/66_sque_18788.webp",
+      "specs": [
+        "Hidratação segura, saudável e prática. Com 420ml de capacidade, nosso squeeze plástico ve…",
+        "Material: Plástico",
+        "Capacidade: 420ml",
+        "Dimensões: 18.8 x 6.6 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/062_18788.png"
+    },
+    {
+      "category": "Squeezes e copos plásticos",
+      "title": "Squeeze Plástico 500ml",
+      "sku": "15252",
+      "description": "Squeeze em plástico PEAD atóxico com capacidade máxima de 500ml. Possui tampa rosqueável…",
+      "url": "https://squeezemania.com.br/brinde/squeeze-plastico-500ml-15252-48271",
+      "image_url": "https://ajg.im/img/produtos/3/15252-5.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/67_sque_15252.webp",
+      "specs": [
+        "Squeeze em plástico PEAD atóxico com capacidade máxima de 500ml. Possui tampa rosqueável…",
+        "Material: Plástico",
+        "Capacidade: 500ml",
+        "Dimensões: 19.7 x 7 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/063_15252.png"
+    },
+    {
+      "category": "Squeezes e copos plásticos",
+      "title": "Squeeze Plástico 500ml",
+      "sku": "15395",
+      "description": "Squeeze em plástico polietileno (PE) com fibra de arroz. Possui capacidade máxima de 500m…",
+      "url": "https://squeezemania.com.br/brinde/squeeze-plastico-500ml-15395-56370",
+      "image_url": "https://ajg.im/img/produtos/3/15395-5.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/68_sque_15395.webp",
+      "specs": [
+        "Squeeze em plástico polietileno (PE) com fibra de arroz. Possui capacidade máxima de 500m…",
+        "Material: Plástico",
+        "Capacidade: 500ml",
+        "Dimensões: 19.6 x 7 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/064_15395.png"
+    },
+    {
+      "category": "Squeezes e copos plásticos",
+      "title": "Copo Plástico 190ml",
+      "sku": "15241",
+      "description": "Copo em plástico PS cristal transparente com capacidade máxima de 190ml., Copo-Plastico-1…",
+      "url": "https://squeezemania.com.br/brinde/copo-plastico-190ml-15241-47937",
+      "image_url": "https://ajg.im/img/produtos/3/15241-2.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/69_sque_15241.webp",
+      "specs": [
+        "Copo em plástico PS cristal transparente com capacidade máxima de 190ml., Copo-Plastico-1…",
+        "Material: Plástico",
+        "Capacidade: 190ml",
+        "Dimensões: 9.5 x 6.5 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/065_15241.png"
+    },
+    {
+      "category": "Squeezes e copos plásticos",
+      "title": "Copo Plástico 350ml",
+      "sku": "02826",
+      "description": "Copo plástico 350ml com tampa de pressão. Tampa com acesso e trava de segurança para o bo…",
+      "url": "https://squeezemania.com.br/brinde/copo-plastico-350ml-02826-39678",
+      "image_url": "https://ajg.im/img/produtos/3/02826-6.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/70_sque_02826.webp",
+      "specs": [
+        "Copo plástico 350ml com tampa de pressão. Tampa com acesso e trava de segurança para o bo…",
+        "Material: Plástico",
+        "Capacidade: 350ml",
+        "Dimensões: 11.7 x 8.3 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/066_02826.png"
+    },
+    {
+      "category": "Squeezes e copos plásticos",
+      "title": "Copo Plástico 350ml",
+      "sku": "14875",
+      "description": "Copo plástico com capacidade de 350ml, tampa com bocal., Copo-Plastico-350ml-14875",
+      "url": "https://squeezemania.com.br/brinde/copo-plastico-350ml-14875-34094",
+      "image_url": "https://ajg.im/img/produtos/3/14875-3.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/71_sque_14875.webp",
+      "specs": [
+        "Copo plástico com capacidade de 350ml, tampa com bocal., Copo-Plastico-350ml-14875",
+        "Material: Plástico",
+        "Capacidade: 350ml",
+        "Dimensões: 11.3 x 9.2 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/067_14875.png"
+    },
+    {
+      "category": "Squeezes e copos plásticos",
+      "title": "Copo Plástico 420ml",
+      "sku": "14941",
+      "description": "Copo plástico 420ml produzido em polipropileno (PP) com acabamento fosco., Copo-Plastico-…",
+      "url": "https://squeezemania.com.br/brinde/copo-plastico-420ml-14941-38832",
+      "image_url": "https://ajg.im/img/produtos/3/14941-5.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/72_sque_14941.webp",
+      "specs": [
+        "Copo plástico 420ml produzido em polipropileno (PP) com acabamento fosco., Copo-Plastico-…",
+        "Material: Plástico",
+        "Capacidade: 420ml",
+        "Dimensões: 13.7 x 7.4 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/068_14941.png"
+    },
+    {
+      "category": "Squeezes e copos plásticos",
+      "title": "Copo Plástico 450ml",
+      "sku": "15240",
+      "description": "Copo em plástico polipropileno (PP) com capacidade máxima de 450ml., Copo-Plastico-450ml-…",
+      "url": "https://squeezemania.com.br/brinde/copo-plastico-450ml-15240-47945",
+      "image_url": "https://ajg.im/img/produtos/3/15240-9.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/73_sque_15240.webp",
+      "specs": [
+        "Copo em plástico polipropileno (PP) com capacidade máxima de 450ml., Copo-Plastico-450ml-…",
+        "Material: Plástico",
+        "Capacidade: 450ml",
+        "Dimensões: 11 x 8.5 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/069_15240.png"
+    },
+    {
+      "category": "Squeezes e copos plásticos",
+      "title": "Copo Plástico 450ml",
+      "sku": "15242",
+      "description": "Copo feito em plástico PS cristal transparente com capacidade de até 450ml., Copo-Plastic…",
+      "url": "https://squeezemania.com.br/brinde/copo-plastico-450ml-15242-47853",
+      "image_url": "https://ajg.im/img/produtos/3/15242-2.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/74_sque_15242.webp",
+      "specs": [
+        "Copo feito em plástico PS cristal transparente com capacidade de até 450ml., Copo-Plastic…",
+        "Material: Plástico",
+        "Capacidade: 450ml",
+        "Dimensões: 14 x 8.5 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/070_15242.png"
+    },
+    {
+      "category": "Squeezes e copos plásticos",
+      "title": "Copo Plástico 600ml",
+      "sku": "02417",
+      "description": "Copo para saborear as bebidas mais deliciosas e especiais! Resistente e versátil, ele pos…",
+      "url": "https://squeezemania.com.br/brinde/copo-plastico-600ml-02417-45815",
+      "image_url": "https://ajg.im/img/produtos/3/02417-6.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/75_sque_02417.webp",
+      "specs": [
+        "Copo para saborear as bebidas mais deliciosas e especiais! Resistente e versátil, ele pos…",
+        "Material: Plástico",
+        "Capacidade: 600ml",
+        "Dimensões: 9.1 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/071_02417.png"
+    },
+    {
+      "category": "Squeezes e copos plásticos",
+      "title": "Copo Plástico 300ml",
+      "sku": "03006T",
+      "description": "Copo isotérmico de plástico polipropileno com capacidade para 300ml livre BPA. Acompanha…",
+      "url": "https://squeezemania.com.br/brinde/copo-plastico-300ml-03006t-36592",
+      "image_url": "https://ajg.im/img/produtos/3/03006T-7.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/76_sque_03006t.webp",
+      "specs": [
+        "Copo isotérmico de plástico polipropileno com capacidade para 300ml livre BPA. Acompanha…",
+        "Material: Plástico",
+        "Capacidade: 300ml",
+        "Dimensões: 16.6 x 7.8 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/072_03006T.png"
+    },
+    {
+      "category": "Squeezes e copos plásticos",
+      "title": "Copo Plástico 600ml",
+      "sku": "02417A",
+      "description": "Copo em plástico livre de BPA com capacidade para até 600ml. Possui marcação de volume im…",
+      "url": "https://squeezemania.com.br/brinde/copo-plastico-600ml-02417a-56472",
+      "image_url": "https://ajg.im/img/produtos/3/02417A-5.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/78_sque_02417a.webp",
+      "specs": [
+        "Copo em plástico livre de BPA com capacidade para até 600ml. Possui marcação de volume im…",
+        "Material: Plástico",
+        "Capacidade: 600ml",
+        "Dimensões: 19 x 9 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/073_02417A.png"
+    },
+    {
+      "category": "Escritório de entrada",
+      "title": "Porta Caneta Plástico",
+      "sku": "14385",
+      "description": "Porta caneta plástico PE., Porta-Caneta-Plastico-14385",
+      "url": "https://squeezemania.com.br/brinde/porta-caneta-plastico-14385-5361",
+      "image_url": "https://ajg.im/img/produtos/3/14385-2.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/79_escr_14385.webp",
+      "specs": [
+        "Porta caneta plástico PE., Porta-Caneta-Plastico-14385",
+        "Material: Plástico",
+        "Dimensões: 10.6 x 6.1 cm",
+        "Gravação: 9,8 cm x 4,7 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/074_14385.png"
+    },
+    {
+      "category": "Escritório de entrada",
+      "title": "Porta Caneta Plástico",
+      "sku": "13727",
+      "description": "Porta caneta plástico com porta clips. Copo plástico resistente com parte interna colorid…",
+      "url": "https://squeezemania.com.br/brinde/porta-caneta-plastico-13727-porta-caneta-escritorio-papelaria-secretaria-escola-2912",
+      "image_url": "https://ajg.im/img/produtos/3/13727-6.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/80_escr_13727.webp",
+      "specs": [
+        "Porta caneta plástico com porta clips. Copo plástico resistente com parte interna colorid…",
+        "Material: Plástico, Papel",
+        "Dimensões: 11.1 x 9.5 cm",
+        "Gravação: 9,5 cm x 7,3 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/075_13727.png"
+    },
+    {
+      "category": "Escritório de entrada",
+      "title": "Porta Caneta Duplo",
+      "sku": "05095",
+      "description": "Porta caneta duplo de acrílico., Porta-Caneta-Duplo-05095",
+      "url": "https://squeezemania.com.br/brinde/porta-caneta-duplo-05095-36190",
+      "image_url": "https://ajg.im/img/produtos/3/05095-2.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/81_escr_05095.webp",
+      "specs": [
+        "Porta caneta duplo de acrílico., Porta-Caneta-Duplo-05095",
+        "Material: Acrílico",
+        "Dimensões: 10.9 x 15.2 cm",
+        "Gravação: 9,5 cm x 4 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/076_05095.png"
+    },
+    {
+      "category": "Escritório de entrada",
+      "title": "Mouse Pad",
+      "sku": "01812",
+      "description": "Mouse pad retangular em poliéster flexível e base emborrachada com textura antiderrapante…",
+      "url": "https://squeezemania.com.br/brinde/mouse-pad-01812-3947",
+      "image_url": "https://ajg.im/img/produtos/3/01812-6.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/82_escr_01812.webp",
+      "specs": [
+        "Mouse pad retangular em poliéster flexível e base emborrachada com textura antiderrapante…",
+        "Dimensões: 18 cm",
+        "Gravação: 22 cm x 18 cm",
+        "Peso: 44g"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/077_01812.png"
+    },
+    {
+      "category": "Escritório de entrada",
+      "title": "Mouse Pad",
+      "sku": "08151",
+      "description": "Mouse pad de poliéster com base emborrachada antiderrapante, garantindo que ele não escor…",
+      "url": "https://squeezemania.com.br/brinde/mouse-pad-08151-45802",
+      "image_url": "https://ajg.im/img/produtos/3/08151-5.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/83_escr_08151.webp",
+      "specs": [
+        "Mouse pad de poliéster com base emborrachada antiderrapante, garantindo que ele não escor…",
+        "Dimensões: 21.5 cm",
+        "Gravação: 15 cm x 15 cm",
+        "Peso: 50g"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/078_08151.png"
+    },
+    {
+      "category": "Escritório de entrada",
+      "title": "Mouse Pad",
+      "sku": "09129",
+      "description": "Mouse pad feito em poliéster impermeável flexível com base antiderrapante em borracha., M…",
+      "url": "https://squeezemania.com.br/brinde/mouse-pad-09129-55156",
+      "image_url": "https://ajg.im/img/produtos/3/09129-2.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/84_escr_09129.webp",
+      "specs": [
+        "Mouse pad feito em poliéster impermeável flexível com base antiderrapante em borracha., M…",
+        "Dimensões: 35 cm",
+        "Gravação: 23 cm x 33 cm",
+        "Peso: 182g"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/079_09129.png"
+    },
+    {
+      "category": "Escritório de entrada",
+      "title": "Mouse Pad Neoprene",
+      "sku": "14119",
+      "description": "Mouse pad neoprene formato retangular com parte inferior emborrachada antideslizante., Mo…",
+      "url": "https://squeezemania.com.br/brinde/mouse-pad-neoprene-14119-4293",
+      "image_url": "https://ajg.im/img/produtos/3/14119-2.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/87_escr_14119.webp",
+      "specs": [
+        "Mouse pad neoprene formato retangular com parte inferior emborrachada antideslizante., Mo…",
+        "Material: Neoprene",
+        "Gravação: 16,9 cm x 21,4 cm",
+        "Peso: 30g"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/080_14119.png"
+    },
+    {
+      "category": "Escritório de entrada",
+      "title": "Mouse Pad Neoprene",
+      "sku": "14120",
+      "description": "Mouse pad neoprene formato circular com parte inferior emborrachada antideslizante., Mous…",
+      "url": "https://squeezemania.com.br/brinde/mouse-pad-neoprene-14120-4291",
+      "image_url": "https://ajg.im/img/produtos/3/14120-2.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/88_escr_14120.webp",
+      "specs": [
+        "Mouse pad neoprene formato circular com parte inferior emborrachada antideslizante., Mous…",
+        "Material: Neoprene",
+        "Dimensões: 18.5 x 18.5 cm",
+        "Gravação: 18,2 cm x 18,2 cm"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/081_14120.png"
+    },
+    {
+      "category": "Escritório de entrada",
+      "title": "Régua Plástica 20cm",
+      "sku": "P@13724",
+      "description": "Régua plástica colorida de 20 cm com verso liso., Regua-Plastica-20cm-P-13724",
+      "url": "https://squeezemania.com.br/brinde/regua-plastica-20cm-p-13724-55742",
+      "image_url": "https://ajg.im/img/produtos/3/P_13724-8.webp",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/regua_p-13724.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "specs": [
+        "Régua plástica colorida de 20 cm com verso liso., Regua-Plastica-20cm-P-13724",
+        "Material: Plástico",
+        "Gravação: 1,6 cm x 19,6 cm",
+        "Peso: 7g"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/082_PA13724.png"
+    },
+    {
+      "category": "Escritório de entrada",
+      "title": "Régua Plástica 30cm",
+      "sku": "P@13763",
+      "description": "Régua plástica colorida de 30 cm com verso liso., Regua-Plastica-30cm-P-13763",
+      "url": "https://squeezemania.com.br/brinde/regua-plastica-30cm-p-13763-55749",
+      "image_url": "https://ajg.im/img/produtos/3/P_13763-7.webp",
+      "image_path": "/tmp/sqz_boas_vindas_expanded/images_safe/regua_p-13763.webp",
+      "ticket_label": "Entrada / até R$20*",
+      "specs": [
+        "Régua plástica colorida de 30 cm com verso liso., Regua-Plastica-30cm-P-13763",
+        "Material: Plástico",
+        "Gravação: 2 cm x 30 cm",
+        "Peso: 18g"
+      ],
+      "local_image": "/home/sqz-opensquad/repo-canva-sqz/imports/2026-07-08-catalogo-boas-vindas-sqz-com-especificacoes/assets/083_PA13763.png"
+    }
+  ],
+  "specs_note": "Especificações extraídas do bloco público do produto: descrição, material inferido do texto, dimensões, área de gravação, peso e mínimo quando disponíveis."
+}
